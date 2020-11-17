@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69c8e922-f935-4de9-98ec-3655f9eb018c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/posts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/posts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/comments/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/comments/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +35,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js-platzi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comments" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/comments" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,6 +57,9 @@
       <workItem from="1603613627709" duration="657000" />
       <workItem from="1603778983491" duration="2642000" />
       <workItem from="1603858793330" duration="103000" />
+      <workItem from="1604200937372" duration="53000" />
+      <workItem from="1605589023896" duration="2138000" />
+      <workItem from="1605591180050" duration="1835000" />
     </task>
     <servers />
   </component>
@@ -75,9 +83,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="742" y="310" width="426" height="493" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1603858894377" />
-    <state x="273" y="284" width="1024" height="737" key="SettingsEditor" timestamp="1603858875234">
+    <state x="273" y="284" width="1024" height="737" key="SettingsEditor" timestamp="1605591567551">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="273" y="284" width="1024" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1603858875234" />
+    <state x="273" y="284" width="1024" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1605591567551" />
+    <state x="273" y="284" key="SettingsEditor/1920.0.1920.1080/1212.1080.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605591166890" />
   </component>
 </project>
